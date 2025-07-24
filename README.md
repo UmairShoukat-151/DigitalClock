@@ -30,7 +30,7 @@ Welcome to my **Digital Clock** project — a simple yet elegant real-time clock
 
 ## 📸 Preview
 
-> ![screencapture-file-C-Users-DeLL-Downloads-Clock-master-Clock-master-index-html-2025-06-16-18_29_07](https://github.com/user-attachments/assets/6462206b-8528-498d-8330-e89d1c8e95dc)
+"C:\Users\DeLL\Downloads\Digitalclock2.png"
 
 
 ---
