@@ -30,7 +30,8 @@ Welcome to my **Digital Clock** project — a simple yet elegant real-time clock
 
 ## 📸 Preview
 
-"C:\Users\DeLL\Downloads\Digitalclock2.png"
+![Uploading Digitalclock2.png…]()
+
 
 
 ---
