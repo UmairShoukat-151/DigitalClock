@@ -30,7 +30,8 @@ Welcome to my **Digital Clock** project — a simple yet elegant real-time clock
 
 ## 📸 Preview
 
-![Uploading Digitalclock2.png…]()
+<img width="1920" height="847" alt="Digitalclock2" src="https://github.com/user-attachments/assets/85d372be-cca4-4353-aa11-cd76431a24f4" />
+
 
 
 
